@@ -1,0 +1,13 @@
+World Clock - Privacy Policy
+
+The World Clock plugin does not collect, store, transmit or share any personal
+data. It makes no network requests, has no analytics or telemetry, and needs no
+account.
+
+The only data it reads and writes is a local settings file on your Mac:
+~/Library/Application Support/Logi/LogiPluginService/PluginData/WorldClock/settings.json,
+which stores your display preferences (which lines each key shows, 12/24-hour
+format, renamed cities). It never leaves your computer. The "World Clock
+Settings" action opens this file in your default text editor.
+
+Questions: vinayeswaras@live.com

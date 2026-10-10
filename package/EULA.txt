@@ -1,0 +1,25 @@
+World Clock - End User License Agreement
+
+Copyright (c) 2026 Vainayaga Sundara Moorthy
+Contact: vinayeswaras@live.com
+
+1. License. World Clock (the "Plugin") is released under the MIT License
+   (see the LICENSE file). You may use, copy, modify and redistribute it under
+   those terms.
+
+2. No warranty. The Plugin is provided "as is", without warranty of any kind.
+   Times shown depend on your computer's time zone database and clock. Do not
+   rely on the Plugin for safety-critical, financial or legal timekeeping.
+   Motorsport calendar dates are informational and may change.
+
+3. Limitation of liability. To the maximum extent permitted by law, the author
+   is not liable for any claim, damages or other liability arising from the use
+   of the Plugin.
+
+4. Privacy. The Plugin does not collect, transmit or share personal data. See
+   PRIVACY.txt.
+
+5. Third-party materials. Map and circuit data are used under the licenses
+   listed in THIRD-PARTY-NOTICES.txt. The Plugin is not affiliated with or
+   endorsed by Formula One group companies, Logitech or Loupedeck. All
+   trademarks belong to their respective owners.

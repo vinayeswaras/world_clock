@@ -1,0 +1,18 @@
+type: plugin4
+name: WorldClock
+version: 0.1.0
+displayName: World Clock
+description: Live world clocks on your MX Creative Keypad - one city per key, plus a dial to plan across time zones.
+author: Vainayaga Sundara Moorthy
+copyright: Copyright (c) 2026 Vainayaga Sundara Moorthy
+license: MIT
+licenseUrl: https://opensource.org/licenses/MIT
+supportPageUrl: mailto:vinayeswaras@live.com
+# Node.js plugins run on macOS from Plugin API 6.3.
+minimumLoupedeckVersion: 6.3
+
+pluginType: remote
+pluginRuntime: nodejs
+entryPoint: index.mjs
+
+pluginCapabilities:

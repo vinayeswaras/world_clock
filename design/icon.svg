@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="face" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#0E7490"/>
+    </linearGradient>
+    <clipPath id="globe">
+      <circle cx="128" cy="128" r="86"/>
+    </clipPath>
+  </defs>
+
+  <!-- White rim keeps the icon readable on dark backgrounds; artwork stays inside the 192 px safe area. -->
+  <circle cx="128" cy="128" r="95" fill="#FFFFFF"/>
+  <circle cx="128" cy="128" r="86" fill="url(#face)"/>
+
+  <g clip-path="url(#globe)" fill="none" stroke="#FFFFFF" stroke-opacity="0.22" stroke-width="4">
+    <ellipse cx="128" cy="128" rx="40" ry="86"/>
+    <ellipse cx="128" cy="128" rx="74" ry="86"/>
+    <line x1="42" y1="88" x2="214" y2="88"/>
+    <line x1="42" y1="128" x2="214" y2="128"/>
+    <line x1="42" y1="168" x2="214" y2="168"/>
+  </g>
+
+  <g stroke="#FFFFFF" stroke-linecap="round" stroke-width="8">
+    <line x1="128" y1="52" x2="128" y2="64"/>
+    <line x1="204" y1="128" x2="192" y2="128"/>
+    <line x1="128" y1="204" x2="128" y2="192"/>
+    <line x1="52" y1="128" x2="64" y2="128"/>
+  </g>
+
+  <!-- Hands at 10:10. -->
+  <g stroke="#FFFFFF" stroke-linecap="round">
+    <line x1="128" y1="128" x2="92" y2="103" stroke-width="13"/>
+    <line x1="128" y1="128" x2="183" y2="96" stroke-width="9"/>
+  </g>
+  <circle cx="128" cy="128" r="12" fill="#F59E0B" stroke="#FFFFFF" stroke-width="4"/>
+</svg>
